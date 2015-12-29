@@ -46,4 +46,4 @@ How to compile vcoind on ubuntu
     Feel free to contritube
 
 - Contact at vcoindev@gmail.com
-
+- pgp 0x55b27105053d0c23
